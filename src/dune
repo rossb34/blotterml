@@ -1,0 +1,4 @@
+((library
+ (name blotter)
+ (public_name blotter)
+ (libraries )))
