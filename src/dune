@@ -1,4 +1,3 @@
-((library
- (name blotter)
- (public_name blotter)
- (libraries )))
+(library
+ (name blotterml)
+ (public_name blotterml))

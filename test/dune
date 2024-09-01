@@ -1,4 +1,3 @@
-((library
- (name blotter_test)
- (libraries blotter)))
- 
+(test
+ (name test_blotter)
+ (libraries alcotest blotterml))
